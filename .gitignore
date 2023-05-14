@@ -1,6 +1,7 @@
 *.json
 *.txt
 __pycache__/
-src/
+src/*
 dst/
 *.mp3*
+!src/sample.txt
